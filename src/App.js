@@ -12,7 +12,6 @@ import { format } from 'date-fns'
 import { Route, Routes, useNavigate } from 'react-router-dom'
 import api from "./api/posts"
 import EditPost from './EditPost'
-import Login from './Login'
 
 function App() {
   const title = "PRITHIVI"
