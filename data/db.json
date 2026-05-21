@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": "3Txy6h_nzx0",
+      "datetime": "May 21,2026 11:27:35 AM",
+      "title": "ergre",
+      "body": "reg",
+      "image": "blob:http://localhost:3000/c9624266-963f-4843-8b05-5cb9492463e0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
